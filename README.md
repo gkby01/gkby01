@@ -1,4 +1,3 @@
-# gkby
 ## 工科保研信息交流平台 :speaker: 最新的夏令营和预推免以及名单通知
 
 <p align="center"> 
